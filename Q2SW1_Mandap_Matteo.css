@@ -1,0 +1,33 @@
+body{
+	border-style: solid;
+	border-color: #00FFCD;
+	border-width: 3px;
+}
+
+.Div1 {
+    background-color: #00FFCD;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+.Div2 {
+    background-color: #00FFCD;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+.Div3 {
+    background-color: #00FFCD;
+    padding: 10px 15px 10px;
+    margin: auto;
+}
+
+h1{
+	font-family: Bebas Neue;
+	color: #000000;
+	text-shadow: whitesmoke 3px 3px;
+}
+ul{
+   font-family: Arial;
+   color: black;
+}
