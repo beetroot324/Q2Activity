@@ -1,0 +1,43 @@
+body{
+    border-style: solid;
+    border-color: #FFFFFF;
+    border-width: 5px;
+    background-color: darkcyan;
+}
+
+.Div1 {
+    padding: 15px 20px 15px;
+    margin: auto;
+}
+
+.Div2 {
+    padding: 15px 20px 15px;
+    margin: auto;
+}
+
+.Div3 {
+    padding: 15px 20px 15px;
+    margin: auto;
+}
+
+h1{
+	font-family: Bebas Neue;
+	color: #000000;
+    letter-spacing: 10px;
+}
+ul{
+   font-family: Arial;
+   color: black;
+}
+
+img{
+    height:400px ;
+    width: 500px;
+    padding: 15px;
+    border-radius: 50px;
+    opacity: .75;
+}
+
+img:hover{
+    opacity: 1;
+}
